@@ -6,4 +6,7 @@ Second try, first didnt work.
 
 Nope not working.
 
-The fuck was that?
+//
+
+Well it kinda worked but i need to push after every commit, not like the tutorial videos.
+And i need to commit first.
